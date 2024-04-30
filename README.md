@@ -13,30 +13,33 @@
 
 💻Computer Procamming (Python, MATLAB, C)
 
-⚙️Sensors and Automation 
+⚙️Sensors, Actuators, and Automation 
 
 ## Experience
 ##### I enjoy applying and fortifying the knowledge I learn through various projects. Each of projects listed bellow are has helped me refine one or more skills:
 
 
-- An Autonomous/Manual Gripper robot.
+- Autonomous and Manual Gripper robot.
     - Applied my 3D CAD, Software, and Electronic's design knowledge.
 
   
-- An Dual Square-Wave and Triangular-Wave Oscillator acompanied by a 5-Step Sequencer to make it play a sequence of notes.
-    - Applied my Electronic design knowledge.
+- Dual Square-Wave and Triangular-Wave Oscillator acompanied by a 5-Step Sequencer to make it play a sequence of notes.
+    - Applied my Electronic's design knowledge.
+ 
+- Guitar Pedals.
+    - Applied my Electronic's design knowledge. 
 
   
-- A PLC-Operated production line using the Siemens TIA Portal STEP 7 software for which I specifically worked on the sorting part of the assembly line.
+- PLC-Operated production line using the Siemens TIA Portal STEP 7 software for which I specifically worked on the sorting part of the assembly line.
     - Applied my LAD and FBD programming knowledge as-well as my understanding of sensors and actuators.
 
 
-- An Autonomous Pet Feeder.
+- Autonomous Pet Feeder.
     - Applied my 3D CAD design knowledge.
 
       
-- A Dino Alarm Clock.
-    - Applied my 3D CAD deseign knowledge 
+- Dino Alarm Clock.
+    - Applied my 3D CAD design knowledge. 
   
 
 
