@@ -2,7 +2,7 @@
 
 🎓 Third-year student studying Mechatronics and Robotics Engineering at Queen's University
 
-📄 Resume
+📄 Check out my Resume for more information on my past work experience
 
 📧 I can be reached at 20tpw1@queensu.ca
 
@@ -16,7 +16,7 @@
 ⚙️Sensors, Actuators, and Automation 
 
 ## Experience
-#### I enjoy applying and fortifying the knowledge I learn through various projects. Each of the projects listed bellow have helped me refine one or more skills:
+#### I enjoy applying and fortifying the knowledge I learn through various projects. Each project listed bellow has helped me refine one or more of my skills:
 
 
 - #### Autonomous and Manual Gripper robot.
