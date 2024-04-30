@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**ThomasWilkinson28/ThomasWilkinson28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a third-year Mechatronics and Robotics Engineering student with a curious and creative mind. I enjoy applying and fortifying the knowledge I learn through various projects. 
 
-Here are some ideas to get you started:
+Some examples of projects I have worked on are:
+- An Autonomous/Manual Gripper robot.
+    - Applied my 3D CAD, Software, and Electronic's design knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+- An Dual Square-Wave and Triangular-Wave Oscillator acompanied by a 5-Step Sequencer to make it play a sequence of notes.
+    - Applied my Electronic design knowledge.
+
+  
+- A PLC-Operated production line using the Siemens TIA Portal STEP 7 software for which I specifically worked on the sorting part of the assembly line.
+    - Applied my LAD and FBD programming knowledge as-well as my understanding of sensors and actuators.
+
+
+- An Autonomous Pet Feeder.
+    - Applied my 3D CAD design knowledge.
+
+      
+- A Dino Alarm Clock.
+    - Applied my 3D CAD deseign knowledge 
+  
+
+
