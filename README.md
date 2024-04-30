@@ -1,4 +1,4 @@
-### Hi there, I'm Thomas Wilkinson
+#### Hi there, I'm Thomas Wilkinson
 
 🎓 Third-year studying Mechatronics and Robotics Engineering at Queen's University
 
@@ -8,7 +8,7 @@
 
 
 
-I enjoy applying and fortifying the knowledge I learn through various projects. Some examples of projects I have worked on are:
+# I enjoy applying and fortifying the knowledge I learn through various projects. Some examples of projects I have worked on are:
 
 
 - An Autonomous/Manual Gripper robot.
