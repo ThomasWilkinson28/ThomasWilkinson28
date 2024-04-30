@@ -8,7 +8,7 @@
 
 
 
-### I enjoy applying and fortifying the knowledge I learn through various projects. Some examples of projects I have worked on are:
+#### I enjoy applying and fortifying the knowledge I learn through various projects. Some examples of projects I have worked on are:
 
 
 - An Autonomous/Manual Gripper robot.
