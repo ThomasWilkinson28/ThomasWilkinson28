@@ -7,7 +7,7 @@
 📧 I can be reached at 20tpw1@queensu.ca
 
 ## Skills
-⚡Electronics design (including soldering, breadboarding, circuit analysis)
+⚡Electronics design (including soldering, breadboarding, and circuit analysis)
 
 📐3D CAD design (Fusion 360 and Solid Works)
 
