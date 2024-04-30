@@ -20,26 +20,27 @@
 
 
 - #### Autonomous and Manual Gripper robot.
-    - Applied my 3D CAD, Software, and Electronic's design knowledge.
+    - Applied my 3D CAD (Fusion 360), Software (Python and C), and Electronic's design knowledge.
 
   
 - #### Dual Square-Wave and Triangular-Wave Oscillator acompanied by a 5-Step Sequencer to make it play a sequence of notes.
     - Applied my Electronic's design knowledge.
+      
  
 - #### Guitar Pedals.
-    - Applied my Electronic's design knowledge. 
-
+    - Applied my Electronic's design knowledge.
+      
   
 - #### PLC-Operated production line using the Siemens TIA Portal STEP 7 software for which I specifically worked on the sorting part of the assembly line.
     - Applied my LAD and FBD programming knowledge as-well as my understanding of sensors and actuators.
 
 
 - #### Autonomous Pet Feeder.
-    - Applied my 3D CAD design knowledge.
+    - Applied my 3D CAD (Fusion 360) design knowledge.
 
       
 - #### Dino Alarm Clock.
-    - Applied my 3D CAD design knowledge. 
+    - Applied my 3D CAD (Solid Works) design knowledge. 
   
 
 
