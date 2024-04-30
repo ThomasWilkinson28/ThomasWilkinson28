@@ -34,11 +34,11 @@
     - Applied my LAD and FBD programming knowledge as-well as my understanding of sensors and actuators.
 
 
-- Autonomous Pet Feeder.
+- #### Autonomous Pet Feeder.
     - Applied my 3D CAD design knowledge.
 
       
-- Dino Alarm Clock.
+- #### Dino Alarm Clock.
     - Applied my 3D CAD design knowledge. 
   
 
