@@ -1,4 +1,4 @@
-## Hi there, I'm Thomas Wilkinson
+# Hi there, I'm Thomas Wilkinson
 
 *🎓 Third-year studying Mechatronics and Robotics Engineering at Queen's University
 
