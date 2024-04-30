@@ -8,8 +8,11 @@
 
 ## Skills and Experience
 ⚡Electronics design (including soldering, breadboarding, circuit analysis)
+
 📐3D CAD design (Fusion 360 and Solid Works)
+
 💻Computer Procamming (Python, MATLAB, C)
+
 ⚙️Sensors and Automation 
 
 #### I enjoy applying and fortifying the knowledge I learn through various projects. Some examples of projects I have worked on are:
