@@ -19,18 +19,18 @@
 #### I enjoy applying and fortifying the knowledge I learn through various projects. Each of the projects listed bellow have helped me refine one or more skills:
 
 
-- Autonomous and Manual Gripper robot.
+- #### Autonomous and Manual Gripper robot.
     - Applied my 3D CAD, Software, and Electronic's design knowledge.
 
   
-- Dual Square-Wave and Triangular-Wave Oscillator acompanied by a 5-Step Sequencer to make it play a sequence of notes.
+- #### Dual Square-Wave and Triangular-Wave Oscillator acompanied by a 5-Step Sequencer to make it play a sequence of notes.
     - Applied my Electronic's design knowledge.
  
-- Guitar Pedals.
+- #### Guitar Pedals.
     - Applied my Electronic's design knowledge. 
 
   
-- PLC-Operated production line using the Siemens TIA Portal STEP 7 software for which I specifically worked on the sorting part of the assembly line.
+- #### PLC-Operated production line using the Siemens TIA Portal STEP 7 software for which I specifically worked on the sorting part of the assembly line.
     - Applied my LAD and FBD programming knowledge as-well as my understanding of sensors and actuators.
 
 
