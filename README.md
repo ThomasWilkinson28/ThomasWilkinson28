@@ -6,7 +6,7 @@
 
 📧 I can be reached at 20tpw1@queensu.ca
 
-## Skills and Experience
+## Skills
 ⚡Electronics design (including soldering, breadboarding, circuit analysis)
 
 📐3D CAD design (Fusion 360 and Solid Works)
@@ -15,7 +15,8 @@
 
 ⚙️Sensors and Automation 
 
-#### I enjoy applying and fortifying the knowledge I learn through various projects. Some examples of projects I have worked on are:
+## Experience
+##### I enjoy applying and fortifying the knowledge I learn through various projects. Some examples of projects I have worked on are:
 
 
 - An Autonomous/Manual Gripper robot.
