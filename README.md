@@ -1,8 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Thomas Wilkinson
 
-I'm a third-year Mechatronics and Robotics Engineering student with a curious and creative mind. I enjoy applying and fortifying the knowledge I learn through various projects. 
+Education: Third-year studying Mechatronics and Robotics Engineering at Queen's University.
+Resume:
+Email: 20tpw1@queensu.ca
 
-Some examples of projects I have worked on are:
+I enjoy applying and fortifying the knowledge I learn through various projects. Some examples of projects I have worked on are:
+
+
 - An Autonomous/Manual Gripper robot.
     - Applied my 3D CAD, Software, and Electronic's design knowledge.
 
