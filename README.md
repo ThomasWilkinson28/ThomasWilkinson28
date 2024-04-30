@@ -6,6 +6,8 @@
 
 📧 I can be reached at 20tpw1@queensu.ca
 
+
+
 I enjoy applying and fortifying the knowledge I learn through various projects. Some examples of projects I have worked on are:
 
 
