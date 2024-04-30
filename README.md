@@ -1,10 +1,10 @@
 ## Hi there, I'm Thomas Wilkinson
 
-🎓 Third-year studying Mechatronics and Robotics Engineering at Queen's University
+*🎓 Third-year studying Mechatronics and Robotics Engineering at Queen's University
 
-📄 Have a look at my resume to learn more about my experiences
+*📄 Have a look at my resume to learn more about my experiences
 
-📧 I can be reached at 20tpw1@queensu.ca
+*📧 I can be reached at 20tpw1@queensu.ca
 
 
 
