@@ -16,7 +16,7 @@
 ⚙️Sensors, Actuators, and Automation 
 
 ## Experience
-##### I enjoy applying and fortifying the knowledge I learn through various projects. Each of projects listed bellow are has helped me refine one or more skills:
+##### I enjoy applying and fortifying the knowledge I learn through various projects. Each of the projects listed bellow have helped me refine one or more skills:
 
 
 - Autonomous and Manual Gripper robot.
