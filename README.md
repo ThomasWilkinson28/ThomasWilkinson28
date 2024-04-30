@@ -16,7 +16,7 @@
 ⚙️Sensors and Automation 
 
 ## Experience
-##### I enjoy applying and fortifying the knowledge I learn through various projects. Some examples of projects I have worked on are:
+##### I enjoy applying and fortifying the knowledge I learn through various projects. Each of projects listed bellow are has helped me refine one or more skills:
 
 
 - An Autonomous/Manual Gripper robot.
