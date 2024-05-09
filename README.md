@@ -2,7 +2,7 @@
 
 🎓 Third-year student studying Mechatronics and Robotics Engineering at Queen's University
 
-📄 Check out my Resume for more information on my past work experience
+📄 Check out my thomaswilkinsonresume.tiiny.site for more information on my past work experience
 
 📧 I can be reached at 20tpw1@queensu.ca
 
@@ -11,7 +11,7 @@
 
 📐3D CAD design (Fusion 360 and SolidWorks)
 
-💻Computer Procamming (Python, MATLAB, C)
+💻Computer Programming (Python, MATLAB, C)
 
 ⚙️Sensors, Actuators, and Automation 
 
