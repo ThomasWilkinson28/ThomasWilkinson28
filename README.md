@@ -9,7 +9,7 @@
 ## Skills
 ⚡Electronics design (including soldering, breadboarding, and circuit analysis)
 
-📐3D CAD design (Fusion 360)
+📐3D CAD design (Fusion 360 and SolidWorks)
 
 💻Computer Procamming (Python, MATLAB, C)
 
@@ -35,6 +35,7 @@
     - Applied my LAD and FBD programming knowledge as-well as my understanding of sensors and actuators.
 
 
-
+- #### Dino Alarm Clock.
+    - Applied my 3D CAD design knowledge (SolidWorks).
 
 
