@@ -2,7 +2,7 @@
 
 🎓 Third-year student studying Mechatronics and Robotics Engineering at Queen's University
 
-📄 Check out my [thomaswilkinsonresume.tiiny.site](https://thomaswilkinsonresume.tiiny.site/) for more information on my past work experience
+📄 Check out my [Resume](https://thomaswilkinsonresume.tiiny.site/) for more information on my past work experience
 
 📧 I can be reached at 20tpw1@queensu.ca
 
