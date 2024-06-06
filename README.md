@@ -29,7 +29,7 @@
     - ⚡(Prototyped circuits using a breadboard and anaylsed them with Oscilloscope and Multimeter)
  
 - #### Guitar Pedals.
-    - ⚡(Prototyped circuits using a breadboard, analysed them with Oscilloscope and Multimeter, soldered them to a prototype PCB board, and assembled final electronics into a drilled enclosure)
+    - ⚡(Prototyped circuits using a breadboard, analysed them with Oscilloscope and Multimeter, soldered them to a prototype PCB board, and assembled final electronics into drilled enclosures)
       
   
 - #### PLC-Operated production line using the Siemens TIA Portal STEP 7 software for which I specifically worked on the sorting part of the assembly line.
