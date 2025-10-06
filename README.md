@@ -1,6 +1,6 @@
 # Hi there, I'm Thomas Wilkinson
 
-🎓 Third-year student studying Mechatronics and Robotics Engineering at Queen's University
+🎓 Fourth-year student studying Mechatronics and Robotics Engineering at Queen's University
 
 📄 Check out my [Resume](https://thomaswilkinsonresume.tiiny.site/) for more information on my past work experience
 
