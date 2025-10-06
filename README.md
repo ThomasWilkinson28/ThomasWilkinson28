@@ -36,7 +36,4 @@
     - ⚙️(Applied my LAD and FBD programming knowledge as-well as my understanding of sensors and actuators)
 
 
-- #### Dino Alarm Clock.
-    - 📐(SolidWorks)
-
 
