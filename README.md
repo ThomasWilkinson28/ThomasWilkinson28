@@ -9,7 +9,7 @@
 ## Skills
 ⚡Electronics design (including soldering, breadboarding, and circuit analysis)
 
-📐3D CAD design (Fusion 360 and SolidWorks)
+📐3D CAD design (Fusion 360)
 
 💻Computer Programming (Python, MATLAB, C)
 
