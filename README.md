@@ -18,6 +18,8 @@
 ## Experience
 #### I enjoy applying and fortifying the knowledge I learn through various projects. Each project listed bellow has helped me refine one or more of my skills:
 
+#### QC Portal Automation.
+    - 💻(Python and C)
 
 - #### Semi-Autonomous Gripper robot.
     - ⚡(Connecting electrical components to a Rasberry Pico using a breadboard)
