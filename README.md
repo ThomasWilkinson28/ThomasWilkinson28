@@ -11,7 +11,7 @@
 
 📐3D CAD design (Fusion 360)
 
-💻Computer Programming (Python, MATLAB, C)
+💻Computer Programming (Python, SQL, MATLAB, C)
 
 ⚙️Sensors, Actuators, and Automation 
 
