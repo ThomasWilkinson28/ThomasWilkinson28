@@ -16,14 +16,16 @@
 ## Experience
 #### I enjoy applying and fortifying the knowledge I learn through various projects. Each project listed bellow has helped me refine one or more of my skills:
 
+- #### Phase Locked Loop Project.
+    - ⚡(Designed and tested a phase locked loop in LTSpice)
+
 - #### QC Portal Automation.
-    - 💻(Python and C)
+    - 💻(Python)
 
 - #### Semi-Autonomous Gripper robot.
     - ⚡(Connecting electrical components to a Rasberry Pico using a breadboard)
     - 📐(Fusion 360),
     - 💻(Python and C)
-
   
 - #### Dual Square-Wave and Triangular-Wave Oscillator acompanied by a 5-Step Sequencer to make it play a sequence of notes.
     - ⚡(Prototyped circuits using a breadboard and anaylsed them with Oscilloscope and Multimeter)
