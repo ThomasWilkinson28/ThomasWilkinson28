@@ -16,7 +16,7 @@
 - #### [Phase Locked Loop Project](../pll-project-repo)
     - ⚡ (Designed and tested a phase locked loop in LTSpice)
 
-- #### [QC Portal Automation](../QCPortalAutomation)
+- #### [QC Portal Automation](QCPortalAutomation)
     - 💻 (Python)
 
 - #### [Semi-Autonomous Gripper Robot](../gripper-robot-repo)
