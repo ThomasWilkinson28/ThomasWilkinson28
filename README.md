@@ -13,22 +13,22 @@
 ## Experience
 #### I enjoy applying and fortifying the knowledge I learn through various projects. Each project listed below has helped me refine one or more of my skills:
 
-- #### [Phase Locked Loop Project](../pll-project-repo)
+- #### [Phase Locked Loop Project](https://github.com/ThomasWilkinson28/Phase-Locked-Loop-Project)
     - ⚡ (Designed and tested a phase locked loop in LTSpice)
 
 - #### [QC Portal Automation](https://github.com/ThomasWilkinson28/QCPortalAutomation)
     - 💻 (Python)
 
-- #### [Semi-Autonomous Gripper Robot](../gripper-robot-repo)
+- #### [Semi-Autonomous Gripper Robot](https://github.com/ThomasWilkinson28/Autonomous-Manual-Gripper-Robot)
     - ⚡ (Connecting electrical components to a Raspberry Pico using a breadboard)
     - 📐 (Fusion 360)
     - 💻 (Python and C)
   
-- #### [Dual Square-Wave and Triangular-Wave Oscillator](../oscillator-sequencer-repo)
+- #### [Dual Square-Wave and Triangular-Wave Oscillator](https://github.com/ThomasWilkinson28/Oscillator-Sequencer)
     - ⚡ (Prototyped circuits using a breadboard and analysed them with Oscilloscope and Multimeter)
  
-- #### [Guitar Pedals](../guitar-pedals-repo)
+- #### [Guitar Pedals](https://github.com/ThomasWilkinson28/Guitar-Pedals)
     - ⚡ (Prototyped circuits using a breadboard, analysed them with Oscilloscope and Multimeter, soldered them to a prototype PCB board, and assembled final electronics into drilled enclosures)
       
-- #### [PLC-Operated Production Line](../plc-production-line-repo)
+- #### [PLC-Operated Production Line](https://github.com/ThomasWilkinson28/PLC-Automation-Project)
     - ⚙️ (Applied my LAD and FBD programming knowledge as-well as my understanding of sensors and actuators)
