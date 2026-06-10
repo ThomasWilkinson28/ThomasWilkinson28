@@ -16,9 +16,6 @@
 - #### [Phase Locked Loop Project](https://github.com/ThomasWilkinson28/Phase-Locked-Loop-Project)
     - ⚡ (Designed and tested a phase locked loop in LTSpice)
 
-- #### [QC Portal Automation](https://github.com/ThomasWilkinson28/QCPortalAutomation)
-    - 💻 (Python)
-
 - #### [Semi-Autonomous Gripper Robot](https://github.com/ThomasWilkinson28/Autonomous-Manual-Gripper-Robot)
     - ⚡ (Connecting electrical components to a Raspberry Pico using a breadboard)
     - 📐 (Fusion 360)
