@@ -16,7 +16,12 @@
 
 - #### [Comparative Analysis of Machine Learning Methods for Enhancing Intuitive Control of Upper-Limb Prosthetics](https://github.com/MarcoSchapira/EEG-Machine-Learning-Model-Comparison)
     - 🧠 (Trained and benchmarked three Deep Learning models for predicting motor execution intention from 64-node EEG signal data.)
-
+      
+- #### [Multi-Channel EEG Recording With NESS](https://github.com/ThomasWilkinson28/Multi-Channel-EEG-Recording-with-NESS)
+    - 💻 (Built a two-stage time-sync protocol that aligns several wireless EEG sensors (nRF51822 BLE nodes) to one Seeed XIAO ESP32 receiver, then to the host PC's Lab Streaming Layer (LSL) clock.)
+    - ⚡ (Assembled the sensors by hand: soldered the electrodes to the BLE and amplifier PCBs and the battery nodes. Recorded multi-channel P300 brain signals and compared them against a 32-channel Brain Products EEG system.)
+    - ⚡ (measured skin-contact impedance from 20 to 1000 Hz with an LCR meter and electrode resistance with a multimeter. Silver plating brought electrode resistance from under 40 kΩ to about 5 kΩ.) 
+      
 - #### [Phase Locked Loop Project](https://github.com/ThomasWilkinson28/Phase-Locked-Loop-Project)
     - ⚡ (Designed and tested a phase locked loop in LTSpice)
 
