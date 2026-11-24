@@ -30,7 +30,8 @@
     - ⚡ (Designed and tested a phase locked loop in LTSpice)
 
 - #### [Semi-Autonomous Gripper Robot](https://github.com/ThomasWilkinson28/Autonomous-Manual-Gripper-Robot)
-    - ⚡ (Connecting electrical components to a Raspberry Pico using a breadboard)
+    - ⚡ (Wired electrical components to a Raspberry Pico using a breadboard)
+    - ⚙️ (Configured servomotors, DC motors, and onboard sensors)
     - 📐 (Fusion 360)
     - 💻 (Python and C)
   
