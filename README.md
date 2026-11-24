@@ -1,17 +1,21 @@
 # Hi there, I'm Thomas Wilkinson
 
-🎓 Fifth-year student studying Mechatronics and Robotics Engineering at Queen's University
+🎓 First-year student studying Biomedical Engineering at the University of Toronto
 
-📧 I can be reached at 20tpw1@queensu.ca
+📧 I can be reached at thomas.wilkinson@mail.utoronto.ca
 
 ## Skills
-⚡ Electronics design (including soldering, breadboarding, and circuit analysis)
-📐 3D CAD design (Fusion 360)
+🧠 Machine Learning and Deep Learning
 💻 Computer Programming (Python, SQL, MATLAB, C)
+⚡ Electronics design (including soldering, breadboarding, and circuit analysis)
 ⚙️ Sensors, Actuators, and Automation 
+📐 3D CAD design (Fusion 360)
 
 ## Experience
 #### I enjoy applying and fortifying the knowledge I learn through various projects. Each project listed below has helped me refine one or more of my skills:
+
+- #### [Comparative Analysis of Machine Learning Methods for Enhancing Intuitive Control of Upper-Limb Prosthetics](https://github.com/MarcoSchapira/EEG-Machine-Learning-Model-Comparison)
+    - 🧠 (Trained and benchmarked three Deep Learning models for predicting motor execution intention from 64-node EEG signal data.)
 
 - #### [Phase Locked Loop Project](https://github.com/ThomasWilkinson28/Phase-Locked-Loop-Project)
     - ⚡ (Designed and tested a phase locked loop in LTSpice)
